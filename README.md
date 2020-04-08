@@ -1,4 +1,4 @@
 # school-website
-this project is about school website . 
-it gives the idea about how to design the code using html ans css.
-the main project is CSE326 in zip folder.
+This project is about school website . 
+It gives the idea about how to design the SCHOOL WEBSITE code using html ans css.
+The main project is CSE326 in zip folder.
